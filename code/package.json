@@ -1,0 +1,11 @@
+{
+  "name": "ql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
