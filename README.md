@@ -13,3 +13,5 @@ put your token following:
 discord slash command handler🌙
 
 # discord-slash-bot
+
+good luck
